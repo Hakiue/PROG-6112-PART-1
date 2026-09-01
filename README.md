@@ -58,8 +58,3 @@ exactly, since that consistency is what Part 2's implementation will be built ag
      choices, and run the SQL script live in SSMS. -->
 [Watch the Part 1 walkthrough](YOUR_YOUTUBE_LINK_HERE)
 
-## AI Disclosure
-
-AI assistance (Claude) was used in drafting the initial ERD, endpoint plan, and SQL script.
-All three were reviewed, tested against a live SQL Server instance, and adjusted before
-submission.
