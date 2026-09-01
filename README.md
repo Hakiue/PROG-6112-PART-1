@@ -48,8 +48,9 @@ exactly, since that consistency is what Part 2's implementation will be built ag
 
 ## CI/CD
 
-<!-- Add a screenshot of the green GitHub Actions build here once the workflow is set up. -->
-![CI/CD Status](docs/ci-success-screenshot.png)
+<img width="1432" height="397" alt="CI-CD" src="https://github.com/user-attachments/assets/170b7fda-be00-496a-8179-6a358e737ef8" />
+
+
 
 ## Video Walkthrough
 
