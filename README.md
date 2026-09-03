@@ -58,5 +58,5 @@ exactly, since that consistency is what Part 2's implementation will be built ag
 
 <!-- Add your unlisted YouTube link here — walk through the ERD decisions, endpoint plan
      choices, and run the SQL script live in SSMS. -->
-[Watch the Part 1 walkthrough](YOUR_YOUTUBE_LINK_HERE)
+[Watch the Part 1 walkthrough](https://youtu.be/RnKxnER6zbA)
 
