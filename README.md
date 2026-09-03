@@ -49,6 +49,8 @@ exactly, since that consistency is what Part 2's implementation will be built ag
 ## CI/CD
 
 <img width="1432" height="397" alt="CI-CD" src="https://github.com/user-attachments/assets/170b7fda-be00-496a-8179-6a358e737ef8" />
+<img width="1446" height="387" alt="Screenshot 2026-09-03 232652" src="https://github.com/user-attachments/assets/a9835423-d0c8-4ece-8f8e-25c974975880" />
+
 
 
 
